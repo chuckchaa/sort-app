@@ -8,10 +8,10 @@ import {
   selectSortedElements,
 } from '../../redux/sortProcess/selectors'
 
-const ACTIVE_COLOR = '#FF7480'
-const SORTED_COLOR = '#92FE9D'
-const AUXILIARY_COLOR = '#0048B4'
-const DEFAULT_COLOR = '#00BBFF'
+const ACTIVE_COLOR = '#fa7a85'
+const SORTED_COLOR = '#8aff96'
+const AUXILIARY_COLOR = '#0454cc'
+const DEFAULT_COLOR = '#02b0f0'
 
 const Array = () => {
   const dispatch = useDispatch()
